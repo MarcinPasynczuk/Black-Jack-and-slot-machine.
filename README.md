@@ -1,5 +1,5 @@
-# Casino
-Casino in Java without GUI, just Java.
+# BlackJack and slot machine in Java.
+BlackJack and slot machine in Java without GUI, just pure Java.
 
 # ver 1.3:
 - Black Jack implementation, basic Black Jack without betting implementation.
@@ -7,3 +7,5 @@ Casino in Java without GUI, just Java.
 - Banking system and betting system including double down.
 # ver 1.5:
 - BlackJack is done. First slot machine.
+# ver 1.6:
+- BJ and slot machine finished. Good luck! :)
