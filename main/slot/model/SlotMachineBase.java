@@ -7,7 +7,7 @@ public class SlotMachineBase {
     private final int numOfReels = 3;
 
     public String[] getSymbols() {
-        return symbols;
+        return symbols;  
     }
 
     public int[] getPayouts() {
