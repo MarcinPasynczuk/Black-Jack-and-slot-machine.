@@ -1,4 +1,4 @@
-import main.slot.service.SlotMachineImpl;
+import main.slot.service.SlotMachineImpl; 
 
 public class Main {
     public static void main(String[] args) {
