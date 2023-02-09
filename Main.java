@@ -7,5 +7,5 @@ public class Main {
  
         SlotMachineImpl slotMachineImpl = new SlotMachineImpl();
         slotMachineImpl.playSlotMachine();
-    }
+    } 
 }
